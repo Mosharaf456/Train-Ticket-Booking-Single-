@@ -1,0 +1,5 @@
+F:\TrainEntity\TrainUI.Entities\bin\Debug\TrainUI.Entities.dll
+F:\TrainEntity\TrainUI.Entities\bin\Debug\TrainUI.Entities.pdb
+F:\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.dll
+F:\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.pdb
+F:\TrainEntity\TrainUI.Entities\obj\Debug\TrainUI.Entities.csprojResolveAssemblyReference.cache

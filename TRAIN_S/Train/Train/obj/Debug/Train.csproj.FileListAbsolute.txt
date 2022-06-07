@@ -1,0 +1,9 @@
+F:\TRAIN\Train\Train\bin\Debug\Train.exe.config
+F:\TRAIN\Train\Train\bin\Debug\Train.exe
+F:\TRAIN\Train\Train\bin\Debug\Train.pdb
+F:\TRAIN\Train\Train\obj\Debug\Train.csprojResolveAssemblyReference.cache
+F:\TRAIN\Train\Train\obj\Debug\Train.LoginForm.resources
+F:\TRAIN\Train\Train\obj\Debug\Train.Properties.Resources.resources
+F:\TRAIN\Train\Train\obj\Debug\Train.csproj.GenerateResource.Cache
+F:\TRAIN\Train\Train\obj\Debug\Train.exe
+F:\TRAIN\Train\Train\obj\Debug\Train.pdb

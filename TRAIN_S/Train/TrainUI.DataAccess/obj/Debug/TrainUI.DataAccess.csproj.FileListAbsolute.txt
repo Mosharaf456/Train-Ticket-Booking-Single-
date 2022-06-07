@@ -1,0 +1,5 @@
+F:\TRAIN\Train\TrainUI.DataAccess\bin\Debug\TrainUI.DataAccess.dll
+F:\TRAIN\Train\TrainUI.DataAccess\bin\Debug\TrainUI.DataAccess.pdb
+F:\TRAIN\Train\TrainUI.DataAccess\obj\Debug\TrainUI.DataAccess.csprojResolveAssemblyReference.cache
+F:\TRAIN\Train\TrainUI.DataAccess\obj\Debug\TrainUI.DataAccess.dll
+F:\TRAIN\Train\TrainUI.DataAccess\obj\Debug\TrainUI.DataAccess.pdb
